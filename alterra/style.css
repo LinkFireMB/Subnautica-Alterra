@@ -86,9 +86,17 @@ body .subnautica {
     text-decoration: none;
     text-transform: uppercase;
     font-weight: bold;
+    transition: all .2s;
+
+    
 }
 
 span {
     color: #ff9900;
 }
 
+
+.subnautica:hover {
+    zoom: 1.2;
+
+}
