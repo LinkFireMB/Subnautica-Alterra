@@ -58,11 +58,11 @@ footer {
     border-top: 3px solid #3d3d3d;
     text-align: center;
     margin-top: 23px;
-    background-color: rgb(255, 0, 0);
+    background-color: #e0e0e0;
     margin-left:-8px;
     margin-right:-8px;
     padding-bottom: 15px;
-    margin-bottom: -7px;
+    margin-bottom: -8px;
 }
 
 footer img {
@@ -119,4 +119,8 @@ span {
 
 .trailer {
     text-align: center;
+}
+
+footer img {
+    width: 450px;
 }
